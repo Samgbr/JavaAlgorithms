@@ -4,7 +4,8 @@ import com.words.transformation.Word;
 import com.words.transformation.WordTransformer;
 
 /**
- * This class is a demo of com.words.transformation.Word Transformer
+ * This class is a demo of com.words.transformation.Word Transformer, solving a question on
+ * cracking the coding interview "WordTransform"
  */
 public class WordTransformerDemo {
 
